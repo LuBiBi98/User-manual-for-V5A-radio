@@ -10,6 +10,8 @@ Please download all the documentation on this page as a reference for the use an
 You can determine the version of your hardware by checking the version number at the top of the screen to obtain the most accurate usage instructions. The assembly steps for different hardware versions are exactly the same.
 For users with hardware versions before 11, you can refer to the user manual - V5A User Manual-EN-20240425. pdf
 For users with hardware version 12, you can refer to the user manual - V5A User Manual for HW ver 12-EN-20240526.pdf
+
+
 If you are a user in Chinese Mainland:
 Please visit the Baidu Netdisk link to obtain all open source materials.
 
