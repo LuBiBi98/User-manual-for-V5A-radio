@@ -11,9 +11,13 @@ You can determine the version of your hardware by checking the version number at
 For users with hardware versions before 11, you can refer to the user manual - V5A User Manual-EN-20240425. pdf
 For users with hardware version 12, you can refer to the user manual - V5A User Manual for HW ver 12-EN-20240526.pdf
 
+
+
 How to use V5A to run internet radio project Yoradio?
 
 If you want to enable the WiFi function and run the Internet radio Yoradio on the V5A, please make sure to download the <How to play with Yoradio.rar> file package and follow the instructions carefully.
+
+
 
 
 --If you are a user in Chinese Mainland:
@@ -22,6 +26,8 @@ Please visit the Baidu Netdisk link to obtain all open source materials.
 
 链接：https://pan.baidu.com/s/1ty6ahpscEtwkzsnJ36iyqg?pwd=gnst 
 提取码：gnst 
+
+
 
 
 For DIY makers：
