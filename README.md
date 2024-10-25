@@ -15,7 +15,7 @@ For users with hardware version 12, you can refer to the user manual - V5A User 
 
 How to use V5A to run internet radio project Yoradio?
 
-If you want to enable the WiFi function and run the Internet radio Yoradio on the V5A, please make sure to download the <How to play with Yoradio.rar> file package and follow the instructions carefully.
+If you want to enable the WiFi function and run the Internet radio Yoradio on the V5A, please make sure to download the <How to play with Yoradio> file package and follow the instructions carefully.
 
 
 
