@@ -1,7 +1,7 @@
 # User-manual-for-V5A-radio
 Some important information about V5A
 
-If you are a non Chinese Mainland user:
+--If you are a non Chinese Mainland user:
 Please download all the documentation on this page as a reference for the use and assembly of the V5A radio.
 
 **Regarding the hardware version:
@@ -12,9 +12,14 @@ For users with hardware versions before 11, you can refer to the user manual - V
 For users with hardware version 12, you can refer to the user manual - V5A User Manual for HW ver 12-EN-20240526.pdf
 
 
-If you are a user in Chinese Mainland:
+--If you are a user in Chinese Mainland:
 Please visit the Baidu Netdisk link to obtain all open source materials.
 
 
 链接：https://pan.baidu.com/s/1ty6ahpscEtwkzsnJ36iyqg?pwd=gnst 
 提取码：gnst 
+
+
+For DIY makers：
+
+Some electronics DIY makers have modified the V5A radio by 3D printing new cases, designing PCBA to convert it to stereo, replacing it with a larger LCD screen, and adding decorative stickers to the acrylic casing to give it a unique appearance. Here are some examples of makers showcasing their modified versions. <https://youtu.be/xupUKa7T2sU> 
