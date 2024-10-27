@@ -1,7 +1,7 @@
 # User-manual-for-V5A-radio
 Some important information about V5A
 
---If you are a non Chinese Mainland user:
+-------------------If you are a non Chinese Mainland user--------------------
 Please download all the documentation on this page as a reference for the use and assembly of the V5A radio.
 
 **Regarding the hardware version:
@@ -13,15 +13,20 @@ For users with hardware version 12, you can refer to the user manual - V5A User 
 
 
 
-How to use V5A to run internet radio project Yoradio?
+--------------------How to use V5A to run internet radio project Yoradio? -----------------------
 
 If you want to enable the WiFi function and run the Internet radio Yoradio on the V5A, please make sure to download the file package ![1729861299440](https://github.com/user-attachments/assets/3aad5f3f-81bf-4228-a3df-e7488a869444)
 and follow the instructions carefully.
 
 
+-------------------How to update V5A to latest firmware version？----------------------------
+
+Latest firmware for V5A Radio：![image](https://github.com/user-attachments/assets/8583e243-f60f-459a-9931-a2432c6fe4b4)
+
+Please follow the steps in the document to update the firmware version of the device.
 
 
---If you are a user in Chinese Mainland:
+---------------------If you are a user in Chinese Mainland--------------------------
 Please visit the Baidu Netdisk link to obtain all open source materials.
 
 
