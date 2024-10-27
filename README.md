@@ -2,6 +2,7 @@
 Some important information about V5A
 
 -------------------If you are a non Chinese Mainland user--------------------
+
 Please download all the documentation on this page as a reference for the use and assembly of the V5A radio.
 
 **Regarding the hardware version:
@@ -23,7 +24,7 @@ and follow the instructions carefully.
 
 Latest firmware for V5A Radio：![image](https://github.com/user-attachments/assets/8583e243-f60f-459a-9931-a2432c6fe4b4)
 
-Please follow the steps in the document to update the firmware version of the device.
+Please follow the steps in ![image](https://github.com/user-attachments/assets/947627cb-b879-4ebc-92e2-a49dac60194e) to update the firmware version of the device.
 
 
 ---------------------If you are a user in Chinese Mainland--------------------------
