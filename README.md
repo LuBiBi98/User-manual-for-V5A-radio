@@ -1,42 +1,34 @@
 # User-manual-for-V5A-radio
+
 Some important information about V5A
 
--------------------If you are a non Chinese Mainland user--------------------
+**Regarding the hardware version: 
+[图片]
 
-Please download all the documentation on this page as a reference for the use and assembly of the V5A radio.
+You can determine the version of your hardware by checking the version number at the top of the screen to obtain the most accurate usage instructions. 
 
-**Regarding the hardware version:
-![b8bf513291db852468e4c1d2efd85c8](https://github.com/user-attachments/assets/02fbe3c8-3741-403c-8cc7-c393439e4f6d)
+Please refer to the latest version of Assembly Guide and User Manual for details:
+V5A Assembly Instructions-Reading Ver-EN-20241030.pdf
+V5A User Manual-Reading version-EN-20241030.pdf
 
-You can determine the version of your hardware by checking the version number at the top of the screen to obtain the most accurate usage instructions. The assembly steps for different hardware versions are exactly the same.
-For users with hardware versions before 11, you can refer to the user manual - V5A User Manual-EN-20240425. pdf
-For users with hardware version 12, you can refer to the user manual - V5A User Manual for HW ver 12-EN-20240526.pdf
+User Manual of main functions (Some of the content or descriptions in the video may no longer be applicable to the latest version of V5A and are for reference only. Please refer to the reading version of the user manual PDF for accurate and detailed instructions on how to use the functions. )：https://youtu.be/r1K9GG87cqI
 
+Assembly Introduction：https://youtu.be/YOtwhnD--fE
 
+--------------------How to use V5A to run internet radio project Yoradio? ----------------------
 
---------------------How to use V5A to run internet radio project Yoradio? -----------------------
-
-If you want to enable the WiFi function and run the Internet radio Yoradio on the V5A, please make sure to download the file package ![1729861299440](https://github.com/user-attachments/assets/3aad5f3f-81bf-4228-a3df-e7488a869444)
+If you want to enable the WiFi function and run the Internet radio Yoradio on the V5A, please make sure to download the file package  
+[图片]
 and follow the instructions carefully.
 
+--------------------How to update V5A to the latest firmware version？-------------------------
 
--------------------How to update V5A to latest firmware version？----------------------------
+Latest firmware for V5A Radio：
+[图片]
 
-Latest firmware for V5A Radio：![image](https://github.com/user-attachments/assets/8583e243-f60f-459a-9931-a2432c6fe4b4)
-
-Please follow the steps in ![image](https://github.com/user-attachments/assets/947627cb-b879-4ebc-92e2-a49dac60194e) to update the firmware version of the device.
-
-
----------------------If you are a user in Chinese Mainland--------------------------
-Please visit the Baidu Netdisk link to obtain all open source materials.
-
-
-链接：https://pan.baidu.com/s/1ty6ahpscEtwkzsnJ36iyqg?pwd=gnst 
-提取码：gnst 
-
-
-
+Please follow the steps in 
+[图片]
+ to update the firmware version of the device.
 
 For DIY makers：
-
-Some electronics DIY makers have modified the V5A radio by 3D printing new cases, designing PCBA to convert it to stereo, replacing it with a larger LCD screen, and adding decorative stickers to the acrylic casing to give it a unique appearance. Here are some examples of makers showcasing their modified versions. <https://youtu.be/xupUKa7T2sU> 
+Some electronics DIY makers have modified the V5A radio by 3D printing new cases, designing PCBA to convert it to stereo, replacing it with a larger LCD screen, and adding decorative stickers to the acrylic casing to give it a unique appearance. Here are some examples of makers showcasing their modified versions. https://youtu.be/xupUKa7T2sU
